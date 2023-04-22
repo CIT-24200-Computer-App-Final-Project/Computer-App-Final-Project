@@ -1,0 +1,10 @@
+This project was created by Tristan Moehl, Omar Kendrick, and Ryan Rutledge.
+Below defines who did what:
+
+• Razor Web Pages - Tristan Moehl
+• Database/SQL Queries - Ryan Rutledge
+• Unit Testing - Omar Kendrick
+• High-Level Design Diagram - Ryan Rutledge
+• README File - Omar Kendrick
+• GitHub Setup - Tristan Moehl, Omar Kendrick
+• Project Review - Tristan Moehl, Omar Kendrick, Ryan Rutledge

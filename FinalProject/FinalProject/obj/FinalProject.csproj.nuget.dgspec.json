@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FinalProject\\FinalProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FinalProject\\FinalProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FinalProject\\FinalProject.csproj",
+        "projectName": "FinalProject",
+        "projectPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FinalProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\FPSCommon.csproj": {
+                "projectPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\FPSCommon.csproj"
+              },
+              "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\FPSqlite.csproj": {
+                "projectPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\FPSqlite.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\FPSCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\FPSCommon.csproj",
+        "projectName": "FPSCommon",
+        "projectPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\FPSCommon.csproj",
+        "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\FPSqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\FPSqlite.csproj",
+        "projectName": "FPSqlite",
+        "projectPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\FPSqlite.csproj",
+        "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trist\\Documents\\IUPUI\\2023\\Spring 2023\\Intro to ASP.NET Programming\\Final Project take 2\\FPSqlite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

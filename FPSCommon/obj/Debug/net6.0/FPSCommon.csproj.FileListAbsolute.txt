@@ -1,0 +1,15 @@
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\bin\Debug\net6.0\FPSCommon.exe
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\bin\Debug\net6.0\FPSCommon.deps.json
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\bin\Debug\net6.0\FPSCommon.runtimeconfig.json
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\bin\Debug\net6.0\FPSCommon.dll
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\bin\Debug\net6.0\FPSCommon.pdb
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.csproj.AssemblyReference.cache
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.AssemblyInfoInputs.cache
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.AssemblyInfo.cs
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.csproj.CoreCompileInputs.cache
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.dll
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\refint\FPSCommon.dll
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.pdb
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\FPSCommon.genruntimeconfig.cache
+C:\Users\trist\Documents\IUPUI\2023\Spring 2023\Intro to ASP.NET Programming\Final Project take 2\FPSCommon\obj\Debug\net6.0\ref\FPSCommon.dll
